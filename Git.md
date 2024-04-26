@@ -102,7 +102,7 @@
 
 **实例**
 
-    git pull 
+    git pull
 
     git pull origin
 
