@@ -4,7 +4,7 @@
 
 ###### 查看本地仓库配置
 
-  git config --local --list
+    git config --local --list
 
 ###### 查看全局配置
 
