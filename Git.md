@@ -22,6 +22,14 @@
 
     `git config user.email`
 
+
+## git status
+
+    `git status`
+
+    `git status -s`
+
+
 ## git add
 
 **添加一个或多个文件到暂存区：**
@@ -36,6 +44,7 @@
 
     `git add .`
 
+
 ## git commit
 
 **提交暂存区到本地仓库中:**
@@ -45,6 +54,7 @@
 **-a 参数设置修改文件后不需要执行 git add 命令，直接来提交**
 
     `git commit -a`
+
 
 ## git remote
 
@@ -76,6 +86,7 @@
 
     `git remote show <remote_name>`
 
+
 ## git push
 
     `git push <远程主机名> <本地分支名>:<远程分支名>`
@@ -88,6 +99,7 @@
 
     `git push origin master`
 
+
 ## git pull
 
 **git pull 命令用于从远程获取代码并合并本地的版本。**
@@ -99,6 +111,7 @@
     `git pull `
 
     `git pull origin`
+
 
 ## git clone
 
