@@ -29,7 +29,7 @@ int main(){
 ```
 $$\infty$$
 $$\sqrt[2]{12315}\times{12}$$
-
+$\sqrt$
 - [X] Write the press release
 - [X] Update the website
 - [X] Contact the media
