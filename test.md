@@ -1,20 +1,35 @@
-`code`  
+`code`
 
-> code1   wdaw 
-> wf  
+> code1   wdaw
+>
+>> wf
+>>$f(x) = x^2$  
+>>$H_2O$  
+>>$H_{4}O_{2}$  
+>>$CH_3COOH$  
+>>$\sum$
+>>
 
->> afwfa    
->> wfw   
-# h1   
+# h1
+
 ## g3
+
 ### ff
-``code ``    
+
+``code ``
+
+$\frac{123}{222}$
 
 ``test ``  
-
-``` 
+```
 int main(){
 
   return 0;
 }
 ```
+$$\infty$$
+$$\sqrt[\sqrt{X}]{12315}\times{12}$$
+
+- [X] Write the press release
+- [X] Update the website
+- [X] Contact the media
