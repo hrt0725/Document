@@ -46,7 +46,8 @@ G:\Windows Kits\10\Lib\10.0.19041.0\ucrt_enclave\x64
 
 # Wallpapers
 
-计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers
+计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers      
+
 C:\Users\LAN\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
 
 ---
@@ -72,7 +73,7 @@ Users\用户\Appdata\Roaming\Visual Studio Code
 
 # VM Ware
 
-**第142行(vm防检测**
+## 第142行(vm防检测
 
 monitor_control.disable_directexec = "TRUE"
 monitor_control.disable_chksimd = "TRUE"
@@ -87,6 +88,31 @@ usb_xhci:4.present = "TRUE"
 usb_xhci:4.deviceType = "hid"
 usb_xhci:4.port = "4"
 usb_xhci:4.parent = "-1"
+
+## **Key**
+
+17：JU090-6039P-08409-8J0QH-2YR7F
+
+16：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+
+15：FC7D0-D1YDL-M8DXZ-CYPZE-P2AY6
+
+12：ZC3TK-63GE6-481JY-WWW5T-Z7ATA
+
+10：1Z0G9-67285-FZG78-ZL3Q2-234JG
+
+vmware workstation 17 pro密匙最新
+4A4RR-813DK-M81A9-4U35H-06KND
+
+NZ4RR-FTK5H-H81C1-Q30QH-1V2LA
+
+JU090-6039P-08409-8J0QH-2YR7F
+
+4Y09U-AJK97-089Z0-A3054-83KLA
+
+4C21U-2KK9Q-M8130-4V2QH-CF810
+
+MC60H-DWHD5-H80U9-6V85M-8280D
 
 ---
 
