@@ -1,5 +1,7 @@
 # Internet 快捷方式
 
+[https://www.kykdb.com/](https://www.kykdb.com/)
+
 [https://www.58pic.com/](https://www.58pic.com/)
 
 [百度地图api](https://lbsyun.baidu.com/index.php?title=jspopularGL)
