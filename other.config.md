@@ -46,7 +46,7 @@ G:\Windows Kits\10\Lib\10.0.19041.0\ucrt_enclave\x64
 
 # Wallpapers
 
-计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers      
+计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers
 
 C:\Users\LAN\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
 
