@@ -1,4 +1,4 @@
-# pom.xml   
+# pom.xml
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -48,10 +48,11 @@
         </resources>
     </build>
 </project>
-```   
-# web.xml   
+```
 
-```xml  
+# web.xml
+
+```xml
 <!DOCTYPE web-app PUBLIC
         "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
         "http://java.sun.com/dtd/web-app_2_3.dtd" >
@@ -83,8 +84,10 @@
         <url-pattern>*.jpg</url-pattern>
     </servlet-mapping>
 </web-app>
-```   
-# spring.xml   
+```
+
+# spring.xml
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
@@ -93,8 +96,10 @@
  <bean:component-scan base-package="com.controllers"/>
 
 </beans>
-```   
-# mybatis.config.xml   
+```
+
+# mybatis.config.xml
+
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE configuration
@@ -107,7 +112,7 @@
             <transactionManager type="JDBC"/>
             <dataSource type="POOLED">
                 <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
-                <property name="url" value="jdbc:mysql://localhost:3306/testdatabase01?useSSl=true&amp;sueUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=Asia/Shanghai"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/testdatabase01?useSSl=true&sueUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai"/>
                 <property name="username" value="lan"/>
                 <property name="password" value="password"/>
             </dataSource>
@@ -118,3 +123,9 @@
     </mappers>
 </configuration>
 ```
+
+# JSP
+
+`<%@page isELIgnored="false"%>`
+
+`${pageContext.request.contextPath}`
