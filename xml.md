@@ -126,6 +126,10 @@
 
 # JSP
 
-```<%@page isELIgnored="false"%>```
+```    
+<%@page isELIgnored="false"%>
+```
 
-```${pageContext.request.contextPath}```
+```     
+${pageContext.request.contextPath}
+```
