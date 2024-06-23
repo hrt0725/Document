@@ -22,6 +22,10 @@
 
 [AKEBI-GC](https://github.com/lwd-temp/Akebi-GC)
 
+[Openui](https://openui.fly.dev/)
+
+[tailwind](https://tailwind.nodejs.cn/)
+
 # CL
 
 **path**
@@ -43,6 +47,14 @@ G:\Program Files\vs_community\Community\VC\Tools\MSVC\14.33.31629\lib\x86
 G:\Windows Kits\10\Lib\10.0.19041.0\um\x86
 G:\Windows Kits\10\Lib\10.0.19041.0\ucrt\x86
 G:\Windows Kits\10\Lib\10.0.19041.0\ucrt_enclave\x64
+
+---
+
+# 注册表
+
+计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+
+计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers
 
 ---
 
