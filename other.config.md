@@ -72,6 +72,8 @@ shutdown -s -t 20
 shutdown -a
 secpol.msc    本地安全策略
 
+start curl  --ssl-no-revoke -X GET https://fga0.market.xiaomi.com/download/AppStore/060e8f57afc294a31a57a07f1dc5f88aee1295aca  -o  wwdd.txt
+
 ---
 
 # VS CODE
@@ -82,6 +84,11 @@ Users\用户\.vscode         |   %userprofile%
 **删除用户信息和缓存信息：**
 Users\用户\Appdata\Roaming\code
 Users\用户\Appdata\Roaming\Visual Studio Code
+
+
+# VS
+
+\$(SolutionDir)\$(Platform)\\$(Configuration)\
 
 ---
 
