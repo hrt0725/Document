@@ -1,6 +1,4 @@
-
 ### [全民超人汉考克](https://ysgcfun.com/covodplay/36176-1-1.html)
-
 
 `code`
 
@@ -45,4 +43,4 @@ $\sqrt{2}$
 
 - [X] Write the press release
 - [X] Update the website
-- [X] Contact the media
+- [ ] Contact the media
