@@ -85,12 +85,17 @@ Users\用户\.vscode         |   %userprofile%
 Users\用户\Appdata\Roaming\code
 Users\用户\Appdata\Roaming\Visual Studio Code
 
-
 # VS
 
 \$(SolutionDir)\$(Platform)\\$(Configuration)\
 
 ---
+
+# MySql
+
+alter table users AUTO_INCREMENT=500
+
+SELECT * FROM  users ORDER BY RAND() LIMIT 1
 
 # VM Ware
 
