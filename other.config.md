@@ -97,6 +97,11 @@ alter table users AUTO_INCREMENT=500
 
 SELECT * FROM  users ORDER BY RAND() LIMIT 1
 
+
+SET FOREIGN_KEY_CHECKS=0
+
+SET FOREIGN_KEY_CHECKS=1
+
 # VM Ware
 
 ## 第142行(vm防检测
