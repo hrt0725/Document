@@ -25,4 +25,4 @@
 6. ShowFlag.PostProcessing —— 开关后期盒子效果
 7. r.AOSpecularOcclusionMode —— 可以让 skylight 产生的 DFAO 产生更准确的高光（0关闭，1打开）
 ## 其他
-1. slomo —— 游戏运行速度（运行速度）
+1. slomo —— 游戏运行速度
