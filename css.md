@@ -4,4 +4,6 @@
 ***
 
 # other
-'box-decoration-break:clone;'
+'''
+box-decoration-break:clone;
+'''
