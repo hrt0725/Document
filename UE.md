@@ -1,13 +1,10 @@
 # 控制台命令
 ## 调试
-stat fps —— 显示帧率
-
-stat unit —— 显示包括Draw Call ，游戏逻辑等各种项的消耗
-
-stat UnitGraph —— 显示各个参数的实时曲线图
-
-stat rhi —— 显示各种GPU上的消耗细则
-stat game —— 显示当前帧的时间信息
+1. stat fps —— 显示帧率
+2. stat unit —— 显示包括Draw Call ，游戏逻辑等各种项的消耗
+3. stat UnitGraph —— 显示各个参数的实时曲线图
+4. stat rhi —— 显示各种GPU上的消耗细则
+5. stat game —— 显示当前帧的时间信息
 stat Engine —— 显示帧数时间，三角面数等
 stat scenerendering —— 显示Drawcall
 ShowFlag.Bounds —— 显示包围盒（0关闭，1打开）
