@@ -4,7 +4,6 @@
 ***
 
 # other
-
-'''    
+```css
 box-decoration-break:clone;
-'''
+```
