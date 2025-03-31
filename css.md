@@ -7,6 +7,6 @@
 box-decoration-break:clone;
 ```
 
-```
+```css
 width:fit-content
 ```
