@@ -5,7 +5,7 @@
 > code1   wdaw
 >
 >> wf
->> $f(x) = x^2$
+>> $f(x) = x^2$wd
 >> $H_2O$
 >> $H_{4}O_{2}$
 >> $CH_3COOH$
